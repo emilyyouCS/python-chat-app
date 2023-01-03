@@ -1,5 +1,5 @@
 # python-chat-app
-Real time multiclient chatroom. 
+Real time multiclient chatroom using TCP sockets and multithreading.
 
 Start the server using 'py server.py'
 
